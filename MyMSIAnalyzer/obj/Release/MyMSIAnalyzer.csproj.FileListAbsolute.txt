@@ -1,0 +1,14 @@
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\MyMSIAnalyzer.exe.config
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\MyMSIAnalyzer.exe
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\MyMSIAnalyzer.pdb
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\WixToolset.Dtf.Compression.dll
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\WixToolset.Dtf.WindowsInstaller.dll
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\WixToolset.Dtf.WindowsInstaller.Linq.dll
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\WixToolset.Dtf.Compression.xml
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\WixToolset.Dtf.WindowsInstaller.xml
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Release\WixToolset.Dtf.WindowsInstaller.Linq.xml
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Release\MyMSIAnalyzer.csproj.AssemblyReference.cache
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Release\MyMSIAnalyzer.csproj.CoreCompileInputs.cache
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Release\MyMSIAnalyzer.csproj.CopyComplete
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Release\MyMSIAnalyzer.exe
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Release\MyMSIAnalyzer.pdb

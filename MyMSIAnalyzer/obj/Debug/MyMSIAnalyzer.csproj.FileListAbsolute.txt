@@ -1,0 +1,14 @@
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\MyMSIAnalyzer.exe.config
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\MyMSIAnalyzer.exe
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\MyMSIAnalyzer.pdb
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Debug\MyMSIAnalyzer.csproj.AssemblyReference.cache
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Debug\MyMSIAnalyzer.csproj.CoreCompileInputs.cache
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Debug\MyMSIAnalyzer.exe
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Debug\MyMSIAnalyzer.pdb
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\WixToolset.Dtf.Compression.dll
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\WixToolset.Dtf.WindowsInstaller.dll
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\WixToolset.Dtf.WindowsInstaller.Linq.dll
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\WixToolset.Dtf.Compression.xml
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\WixToolset.Dtf.WindowsInstaller.xml
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\bin\Debug\WixToolset.Dtf.WindowsInstaller.Linq.xml
+A:\SSD\ProjectsVS\MyMSIAnalyzer\MyMSIAnalyzer\obj\Debug\MyMSIAnalyzer.csproj.CopyComplete
