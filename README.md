@@ -17,4 +17,4 @@ The tool is easy to use:
 .\GuiFinder.exe [--folder <PATH>]
 ```
 
-If you're not familiar with this method of privilege escalation, I encourage you to read our article
+If you're not familiar with this method of privilege escalation, I encourage you to read [our article](https://cicada-8.medium.com/evil-msi-a-long-story-about-vulnerabilities-in-msi-files-1a2a1acaf01c).
